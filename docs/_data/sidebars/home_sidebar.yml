@@ -13,6 +13,6 @@ entries:
       title: Core
       url: core.html
     output: web
-    title: test_pypi
+    title: jeremy_test
   output: web
   title: Sidebar
